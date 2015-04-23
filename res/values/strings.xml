@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PictureGet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">跳转</string>
+    <string name="Add">添加</string>
+    <string name="picture_title">图片名：</string>
+    <string name="show">显示图片</string>
+</resources>
